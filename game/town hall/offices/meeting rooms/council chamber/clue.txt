@@ -1,6 +1,6 @@
 New Clue:
 
-Go back and check the cafe in the shops.
+Go back and check the study in the Residential Area.
 
 Hint: You'll need to go back several directories to reach this location.
 Remember that you can use multiple '../' to go up multiple levels:
